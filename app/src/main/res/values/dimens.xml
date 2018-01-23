@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="altocabecera">200dp</dimen>
+    <dimen name="anchoboton">100dp</dimen>
+    <dimen name="izquierda">20dp</dimen>
+    <dimen name="espacioboton">wrap_content</dimen>
+    <dimen name="alturaboton">wrap_content</dimen>
+    <dimen name="espacio">20dp</dimen>
+</resources>
